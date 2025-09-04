@@ -9,7 +9,7 @@ import CompareTable from "./components/CompareTable";
 import Plan from "./components/Plan";
 import Store from "./components/Store";
 import Ratings from "./components/Ratings";
-import Faqs from "./components/FAQs";
+import Faqs from "./components/Faqs";
 import Account from "./components/Account";
 import Footer from "./components/Footer";
 // Import PopupForm component when ready
